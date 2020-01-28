@@ -45,7 +45,7 @@
     "ipfs-mini": "^1.1.2",
     "jquery": "^3.3.1",
     "jsonwebtoken": "^8.2.1",
-    "mongoose": "^5.1.2",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.0",
     "ngx-xml2json": "^1.0.2",
     "popper.js": "^1.14.3",
